@@ -1,6 +1,5 @@
 ---
 title: Perpus
-emoji: 🚀
 colorFrom: red
 colorTo: blue
 sdk: streamlit
