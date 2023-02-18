@@ -10,5 +10,4 @@ pinned: false
 license: mit
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
-# 11190910000020
+# 11190910000020 - 2023
